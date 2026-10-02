@@ -1,38 +1,46 @@
-# 👋 Salut, moi c'est Fadel THIAM !
+#  Salut, moi c'est Fadel THIAM !
 
-### 🚀 À propos de moi
-- 🎓 Étudiant en **BUT Informatique (2ème année)** à l'**Université Sorbonne Paris Nord**.
-- 💼 Actuellement à la recherche d'une **alternance de 2 ans** (rythme 2 semaines / 2 semaines) à partir d'**Octobre 2026**.
-- 🎯 Visée professionnelle : Missions orientées **Développement informatique ( Web, Front, Back, Full Stack, Cybersécurité, Système et réseau Data, Statistique et Intelligence Artificielle)**.
+###  À propos de moi
+-  Étudiant en **BUT Informatique (2ème année)** à l'**Université Sorbonne Paris Nord**.
+-  Actuellement à la recherche d'une **alternance de 2 ans** (rythme 2 semaines / 2 semaines) à partir d'**Octobre 2026**.
+-  Visée professionnelle : Missions orientées **Développement informatique ( Web, Front, Back, Full Stack, Cybersécurité, Système et réseau Data, Statistique et Intelligence Artificielle)**.
 - 📫 Pour me joindre : [thiamfadel028@gmail.com](mailto:thiamfadel028@gmail.com).
 
 ---
 
 ### 🛠️ Compétences & Outils
 
-#### 💻 Langages de programmation
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
+#### 💻 Langages de programmation & Scripting
+![Python](https://shields.io)
+![SQL](https://shields.io)
+![Java](https://shields.io)
+![JavaScript](https://shields.io)
+![Bash](https://shields.io)
+![PHP](https://shields.io)
+
+#### 🌐 Technologies Web & CMS
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![WordPress](https://shields.io) *(En apprentissage autonome)*
 
 #### 📊 Data Science & Visualisation
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
+![Pandas](https://shields.io)
+![PostgreSQL](https://shields.io)
+![MySQL](https://shields.io)
+![Grafana](https://shields.io)
+![Jupyter](https://shields.io)
+![Microsoft Excel](https://shields.io)
 
 #### ⚙️ Environnements & Outils DevOps
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
+![Linux](https://shields.io)
+![Git](https://shields.io)
+![VirtualBox](https://shields.io)
+![Wireshark](https://shields.io)
+![Google Workspace](https://shields.io)
+
+#### 🤖 Assistants IA
+![GitHub Copilot](https://shields.io)
+![Claude](https://shields.io)
 
 ---
 
