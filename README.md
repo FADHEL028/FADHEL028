@@ -10,38 +10,37 @@
 
 ###  Compétences & Outils
 
-####  Langages de programmation & Scripting
-![Python](https://shields.io)
-![SQL](https://shields.io)
-![Java](https://shields.io)
-![JavaScript](https://shields.io)
-![Bash](https://shields.io)
-![PHP](https://shields.io)
+#### 💻 Langages de programmation & Scripting
+<img src="https://shields.io" alt="Python" />
+<img src="https://shields.io" alt="SQL" />
+<img src="https://shields.io" alt="Java" />
+<img src="https://shields.io" alt="JavaScript" />
+<img src="https://shields.io" alt="Bash" />
+<img src="https://shields.io" alt="PHP" />
 
-####  Technologies Web & CMS
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![WordPress](https://shields.io) *(En apprentissage autonome)*
+#### 🌐 Technologies Web & CMS
+<img src="https://shields.io" alt="HTML5" />
+<img src="https://shields.io" alt="CSS3" />
+<img src="https://shields.io" alt="WordPress" /> *(En apprentissage autonome)*
 
-####  Data Science & Visualisation
-![Pandas](https://shields.io)
-![PostgreSQL](https://shields.io)
-![MySQL](https://shields.io)
-![Grafana](https://shields.io)
-![Jupyter](https://shields.io)
-![Microsoft Excel](https://shields.io)
+#### 📊 Data Science & Visualisation
+<img src="https://shields.io" alt="Pandas" />
+<img src="https://shields.io" alt="PostgreSQL" />
+<img src="https://shields.io" alt="MySQL" />
+<img src="https://shields.io" alt="Grafana" />
+<img src="https://shields.io" alt="Jupyter" />
+<img src="https://shields.io" alt="Excel" />
 
-####  Environnements & Outils DevOps
-![Linux](https://shields.io)
-![Git](https://shields.io)
-![VirtualBox](https://shields.io)
-![Wireshark](https://shields.io)
-![Google Workspace](https://shields.io)
+#### ⚙️ Environnements & Outils DevOps
+<img src="https://shields.io" alt="Linux" />
+<img src="https://shields.io" alt="Git" />
+<img src="https://shields.io" alt="VirtualBox" />
+<img src="https://shields.io" alt="Wireshark" />
+<img src="https://shields.io" alt="Google Workspace" />
 
-#### Assistants IA
-![GitHub Copilot](https://shields.io)
-![Claude](https://shields.io)
-
+#### 🤖 Assistants IA
+<img src="https://shields.io" alt="GitHub Copilot" />
+<img src="https://shields.io" alt="Claude" />
 ---
 
 ###  Réalisations Marquantes
